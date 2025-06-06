@@ -189,3 +189,72 @@ Trabalho com foco em:
 ---
 
 <p align="center">🎮 **Player: Daniel Henrique** — _READY!_ 🚀</p>
+
+
+<h1 align="center">🎮 Daniel Henrique — Dev Game Profile</h1>
+<p align="center">🕹️ Level 99 | XP: ██████████░░░ 90%</p>
+<p align="center">"Player 1 ready to deploy..." 🚀</p>
+
+---
+
+## 🧙 Classe
+**Fullstack Developer**  
+**Nível**: 99+  
+**Alinhamento**: ⚫ ⚫ ⚫ ⚫ ⚪ — _Clean Code Warrior_  
+
+---
+
+## ⚔️ Skills Equipadas
+
+### 🎨 Front-End  
+🟢 React.js · Tailwind CSS · Vite · Framer Motion
+
+### 🖥️ Back-End  
+🟢 Python · FastAPI · Flask · SQLite · SQL Server
+
+### 📊 Dados & BI  
+🟢 Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro
+
+### 🖥️ Desktop App  
+🟢 Electron · Tkinter · PyInstaller
+
+### ⚙️ DevOps  
+🟢 Git · Logging · Stacktrace · Auditoria LGPD
+
+---
+
+## 🎯 Current Quests
+
+🗺️ Build new dashboards with React + APIs  
+🗺️ Automate Excel ingestion and validation  
+🗺️ Create BI integrations for automatic Power BI feeds  
+🗺️ Develop desktop apps with LGPD audit trail  
+🗺️ Optimize UX for corporate systems
+
+---
+
+## 🏅 Achievements Unlocked
+
+🏆 Systems deployed in production  
+🏆 BI pipelines with automated ETL  
+🏆 UX-focused dashboards for enterprise  
+🏆 LGPD-compliant logging and auditing  
+🏆 Cross-platform desktop apps with Electron / PyInstaller
+
+---
+
+<p align="center">🎮 **Player: Daniel Henrique** — _READY!_ 🚀</p>
+
+---
+
+## 🛡️ Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-pinheiro-309754243" target="_blank">LinkedIn</a> •
+  <a href="mailto:daniellopeshps@gmail.com">Email</a> •
+  <a href="https://github.com/DanielpinheiroH" target="_blank">GitHub</a>
+</p>
+
+---
+
+<p align="center">Feito com ❤️ por Daniel Henrique — GAME DEV PROFILE 🚀</p>
