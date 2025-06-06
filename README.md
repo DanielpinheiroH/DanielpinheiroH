@@ -141,6 +141,3 @@ Trabalho com foco em:
 ![snake gif](./dist/github-contribution-grid-snake.svg)
 
 ---
-<p align="center">
-  <img src="https://metrics.lecoq.io/DanielpinheiroH?template=classic&languages=1&stars=1&achievements=1&isocalendar=1" />
-</p>
