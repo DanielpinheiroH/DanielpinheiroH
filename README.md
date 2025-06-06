@@ -110,4 +110,3 @@ Trabalho com foco em:
 <p align="center"><i>“Não é só código. É estratégia, dados confiáveis e experiência para o usuário.”</i></p>
 
 
-  <text x="380" y="95"  font-size="12" text-anchor="middle">50%</text>
