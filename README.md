@@ -95,6 +95,28 @@ Trabalho com foco em:
 
 ---
 
+<h1 align="center">🍿 Netflix dos meus sites</h1>
+<p align="center">Um catálogo interativo dos meus projetos, inspirado na interface da Netflix. Desenvolvido por Daniel Henrique 🚀</p>
+
+---
+
+## 🎬 Meu Catálogo de Sites
+
+<p align="center">
+  <a href="https://panificadorasantamassa.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/panificadora.png.jpeg" alt="Panificadora Santa Massa" width="180" />
+  </a>
+  
+  <a href="https://nobreternos.com.br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nobreternos.png.jpeg" alt="Nobre Ternos" width="180" />
+  </a>
+  
+  <a href="https://nhmanutencoes.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutencoes" width="180" />
+  </a>
+</p>
+
+---
 ## 🧠 Filosofia de Trabalho
 
 ✔️ React no front: rápido, limpo e responsivo  
@@ -114,12 +136,12 @@ Trabalho com foco em:
 ![snake gif](./dist/github-contribution-grid-snake.svg)
 
 
-<h1 align="center">🍿 Netflix das minhas Stacks</h1>
+<h1 align="center">🍿 Netflix dos meus sites</h1>
 <p align="center">Um catálogo interativo dos meus projetos, inspirado na interface da Netflix. Desenvolvido por Daniel Henrique 🚀</p>
 
 ---
 
-## 🎬 Meu Catálogo de Projetos
+## 🎬 Meu Catálogo de Sites
 
 <p align="center">
   <a href="https://panificadorasantamassa.com/" target="_blank">
@@ -181,33 +203,4 @@ Trabalho com foco em:
   <img src="https://img.shields.io/badge/Auditoria%20e%20Logs-Rastreabilidade-purple?style=for-the-badge" />
 </p>
 ---
-
-## 🚀 Stack Principal
-
-### 🎨 Front-End  
-React.js · Tailwind CSS · Vite · Framer Motion
-
-### 🖥️ Back-End  
-Python · FastAPI · Flask · SQLite · SQL Server
-
-### 📊 Dados & BI  
-Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro
-
-### 🖥️ Desktop App  
-Electron · Tkinter · PyInstaller
-
-### ⚙️ DevOps  
-Git · Logging · Stacktrace · Auditoria LGPD
-
----
-
-## 🧩 O que eu construo
-
-🎬 **Dashboards e sistemas web com React + APIs**  
-🎬 **Soluções desktop para ingestão e validação de planilhas Excel**  
-🎬 **Módulos de integração que alimentam o Power BI automaticamente**  
-🎬 **Front-ends intuitivos e performáticos com foco em UX corporativa**  
-🎬 **Serviços de auditoria, logs técnicos e rastreabilidade**
-
-
 
