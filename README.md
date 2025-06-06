@@ -112,3 +112,54 @@ Trabalho com foco em:
 ## 🐍 Snake eating my contributions
 
 ![snake gif](./dist/github-contribution-grid-snake.svg)
+
+
+<h1 align="center">🎬 Netflix das minhas Stacks</h1>
+<p align="center">Meu portfólio interativo de tecnologias e projetos</p>
+
+---
+
+## 🚀 Tecnologias que domino
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🎬 Meus "filmes" (projetos favoritos)
+
+<p align="center">
+  <a href="https://github.com/seuuser/netflix-clone" target="_blank">
+    <img src="https://raw.githubusercontent.com/seuuser/netflix-clone/main/preview.png" alt="Netflix Clone" width="200" />
+  </a>
+  <a href="https://github.com/seuuser/crm-system" target="_blank">
+    <img src="https://raw.githubusercontent.com/seuuser/crm-system/main/preview.png" alt="CRM System" width="200" />
+  </a>
+  <a href="https://github.com/seuuser/portfolio-site" target="_blank">
+    <img src="https://raw.githubusercontent.com/seuuser/portfolio-site/main/preview.png" alt="Portfolio Site" width="200" />
+  </a>
+</p>
+
+---
+
+## 📚 Outras stacks / skills
+
+- 🔥 Firebase, MongoDB, PostgreSQL
+- 🛠 Git / GitHub Actions
+- 🖥️ Linux / Docker
+- ⚡ REST APIs, GraphQL
+- 🧠 Machine Learning (básico)
+
+---
+
+## 🌎 Contato
+
+- 📧 [seuemail@email.com](mailto:seuemail@email.com)
+- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
+- 🚀 [Meu GitHub](https://github.com/seuuser)
