@@ -115,21 +115,23 @@ Trabalho com foco em:
 
 
 <h1 align="center">🍿 Netflix das minhas Stacks</h1>
-<p align="center">Um catálogo interativo dos meus projetos, estilo Netflix, desenvolvido por Daniel Henrique 🚀</p>
+<p align="center">Um catálogo interativo dos meus projetos, inspirado na interface da Netflix. Desenvolvido por Daniel Henrique 🚀</p>
 
 ---
 
-## 🎬 Meu Catálogo
+## 🎬 Meu Catálogo de Projetos
 
 <p align="center">
   <a href="https://panificadorasantamassa.com/" target="_blank">
-    <img src="https://via.placeholder.com/180x250?text=Panificadora+Santa+Massa" alt="Panificadora Santa Massa" width="180" />
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/panificadora.png.jpeg" alt="Panificadora Santa Massa" width="180" />
   </a>
+  
   <a href="https://nobreternos.com.br/" target="_blank">
-    <img src="https://via.placeholder.com/180x250?text=Nobre+Ternos" alt="Nobre Ternos" width="180" />
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nobreternos.png.jpeg" alt="Nobre Ternos" width="180" />
   </a>
+  
   <a href="https://nhmanutencoes.com/" target="_blank">
-    <img src="https://via.placeholder.com/180x250?text=NH+Manutencoes" alt="NH Manutencoes" width="180" />
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutencoes" width="180" />
   </a>
 </p>
 
@@ -147,4 +149,15 @@ Trabalho com foco em:
 
 ---
 
+## 🌎 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-pinheiro-309754243" target="_blank">LinkedIn</a> •
+  <a href="mailto:daniellopeshps@gmail.com">Email</a> •
+  <a href="https://github.com/DanielpinheiroH" target="_blank">GitHub</a>
+</p>
+
+---
+
+<p align="center">Feito com ❤️ por Daniel Henrique</p>
 
