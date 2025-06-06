@@ -115,53 +115,36 @@ Trabalho com foco em:
 
 
 <h1 align="center">🍿 Netflix das minhas Stacks</h1>
-<p align="center">Um catálogo interativo dos meus projetos, igualzinho a um Netflix pessoal 🎬🚀</p>
+<p align="center">Um catálogo interativo dos meus projetos, estilo Netflix, desenvolvido por Daniel Henrique 🚀</p>
 
 ---
 
 ## 🎬 Meu Catálogo
 
 <p align="center">
-  <a href="https://github.com/seuuser/netflix-clone" target="_blank">
-    <img src="https://raw.githubusercontent.com/seuuser/netflix-clone/main/preview.png" alt="Netflix Clone" width="180" />
+  <a href="https://panificadorasantamassa.com/" target="_blank">
+    <img src="https://via.placeholder.com/180x250?text=Panificadora+Santa+Massa" alt="Panificadora Santa Massa" width="180" />
   </a>
-  <a href="https://github.com/seuuser/crm-system" target="_blank">
-    <img src="https://raw.githubusercontent.com/seuuser/crm-system/main/preview.png" alt="CRM System" width="180" />
+  <a href="https://nobreternos.com.br/" target="_blank">
+    <img src="https://via.placeholder.com/180x250?text=Nobre+Ternos" alt="Nobre Ternos" width="180" />
   </a>
-  <a href="https://github.com/seuuser/portfolio-site" target="_blank">
-    <img src="https://raw.githubusercontent.com/seuuser/portfolio-site/main/preview.png" alt="Portfolio Site" width="180" />
-  </a>
-  <a href="https://github.com/seuuser/python-bot" target="_blank">
-    <img src="https://raw.githubusercontent.com/seuuser/python-bot/main/preview.png" alt="Python Bot" width="180" />
-  </a>
-  <a href="https://github.com/seuuser/ecommerce-app" target="_blank">
-    <img src="https://raw.githubusercontent.com/seuuser/ecommerce-app/main/preview.png" alt="Ecommerce App" width="180" />
+  <a href="https://nhmanutencoes.com/" target="_blank">
+    <img src="https://via.placeholder.com/180x250?text=NH+Manutencoes" alt="NH Manutencoes" width="180" />
   </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que domino
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 🌎 Contato
-
-<p align="center">
-  <a href="https://linkedin.com/in/seuperfil" target="_blank">LinkedIn</a> •
-  <a href="mailto:seuemail@email.com">Email</a> •
-  <a href="https://github.com/seuuser">GitHub</a>
-</p>
-
----
-
-<p align="center">Feito com ❤️ por [Seu Nome]</p>
 
