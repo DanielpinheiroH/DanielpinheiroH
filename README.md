@@ -101,7 +101,7 @@ Trabalho com foco em:
 ---
 
 <h1 align="center">🍿 Netflix dos meus sites</h1>
-<p align="center">Um catálogo interativo dos meus projetos, inspirado na interface da Netflix. Desenvolvido por Daniel Henrique 🚀</p>
+<p align="center">Um catálogo interativo dos meus Sites
 
 ---
 
@@ -122,14 +122,8 @@ Trabalho com foco em:
 </p>
 
 ---
-## 🧠 Filosofia de Trabalho
 
-✔️ React no front: rápido, limpo e responsivo  
-✔️ Python no back: estável, seguro e validável  
-✔️ Dados confiáveis, estruturados e auditáveis  
-✔️ Arquitetura em **degraus**: evolução controlada e incremental  
 
----
 
 
 
