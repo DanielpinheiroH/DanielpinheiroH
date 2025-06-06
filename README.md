@@ -159,5 +159,24 @@ Trabalho com foco em:
 
 ---
 
+## 🚀 Stack Principal
+
+| Camada         | Tecnologias                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| Front-End      | React.js · Tailwind CSS · Vite · Framer Motion                                 |
+| Back-End       | Python · FastAPI · Flask · SQLite · SQL Server                                 |
+| Dados & BI     | Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro                             |
+| Desktop App    | Electron · Tkinter · PyInstaller                                               |
+| DevOps         | Git · Logging · Stacktrace · Auditoria LGPD                                    |
+
+---
+
+## 🧩 O que eu construo
+
+🔹 Dashboards e sistemas web com **React + APIs**  
+🔹 Soluções desktop para ingestão e validação de **planilhas Excel**  
+🔹 Módulos de integração que alimentam o **Power BI automaticamente**  
+🔹 **Front-ends intuitivos e performáticos** com foco em UX corporativa  
+🔹 Serviços de **auditoria, logs técnicos e rastreabilidade**
 <p align="center">Feito com ❤️ por Daniel Henrique</p>
 
