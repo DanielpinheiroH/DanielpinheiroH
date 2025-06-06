@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Daniel+Henrique+Fullstack+Developer;React+%2B+Python+Warrior;Excel+%2B+Power+BI+Master;Game+Dev+Profile+Ready!+🚀" alt="Typing SVG" />
+</p>
+
+
 <h1 align="center">🚀 Dev • Engenharia de Software, React & Integrações Corporativas</h1>
+
 
 <p align="center">
   <b>Transformo planilhas, dados dispersos e rotinas manuais em sistemas modernos, conectados e inteligentes.</b><br>
@@ -137,125 +143,3 @@ Trabalho com foco em:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Dev Game Profile Banner" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/150087833?v=4" width="150" alt="Daniel Henrique Avatar"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Q8I2XbLkpFPRiZRMqG/giphy.gif" width="300" alt="XP Bar"/>
-</p>
-
-<h1 align="center">🎮 Daniel Henrique — Fullstack Dev • Software Engineer</h1>
-<p align="center">🕹️ Level 99 | XP: ██████████░░░ 90%</p>
-<p align="center">"Player 1 ready to deploy..." 🚀</p>
-
----
-
-## 📜 Lore do Personagem (Sobre mim)
-
-Transformo **planilhas, dados dispersos e rotinas manuais** em **sistemas modernos, conectados e inteligentes**.
-
-🛡️ Não reajo sem frente. **Python sem volta.**  
-📊 **Excel + Power BI** no coração dos dados corporativos.
-
-Sou engenheiro de software especializado em **desenvolvimento full stack** com:
-
-- ⚔️ **React no front-end**  
-- 🐍 **Python no back-end**  
-- Voltado para **sistemas corporativos de alta performance** e integração com fontes como **Excel** e **Power BI**.
-
-**Minha estratégia de combate:**
-
-- Interfaces modernas com **React.js + Tailwind**
-- Back-end performático com **FastAPI / Flask**
-- Pipelines de dados que conectam planilhas, bancos e dashboards
-- Soluções com responsabilidade técnica e visão de negócio
-
----
-
-## ⚔️ Skills Equipadas
-
-### ▌React.js ▓▓▓▓▓▓▓▓▓░░ 80%  
-### ▌JavaScript ▓▓▓▓▓▓▓▓░░ 70%  
-### ▌Python ▓▓▓▓░░░░░░ 40%  
-### ▌TypeScript ▓▓▓▓▓▓░░░░ 60%  
-### ▌Next.js ▓▓▓▓▓░░░░░ 50%
-
----
-
-## 🎮 Stack Principal
-
-| Camada         | Tecnologias                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| Front-End      | React.js · Tailwind CSS · Vite · Framer Motion                                 |
-| Back-End       | Python · FastAPI · Flask · SQLite · SQL Server                                 |
-| Dados & BI     | Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro                             |
-| Desktop App    | Electron · Tkinter · PyInstaller                                               |
-| DevOps         | Git · Logging · Stacktrace · Auditoria LGPD                                    |
-
----
-
-## 🗺️ Quests e Feats (O que eu construo)
-
-🔹 Dashboards e sistemas web com **React + APIs**  
-🔹 Soluções desktop para **ingestão e validação de planilhas Excel**  
-🔹 Módulos de integração que alimentam o **Power BI automaticamente**  
-🔹 Front-ends **intuitivos e performáticos** com foco em UX corporativo  
-🔹 Serviços de **auditoria, logs técnicos e rastreabilidade**
-
----
-
-## 🏆 Legendary Artifacts (Projetos em Destaque)
-
-### 💻 Sistema de Gestão de Pedido de Inserção (PI)
-
-🗡️ Plataforma full stack com:
-
-- React.js + Tailwind no front-end  
-- FastAPI + SQLite no back-end  
-- Uploads validados de Excel  
-- Dashboard integrado ao Power BI  
-- Registros, permissões, auditorias e exportações
-
----
-
-### ⚙️ Módulo Técnico de Logs & Stacktrace
-
-Solução lendária para **redução de tempo de suporte** e **diagnóstico técnico**:
-
-- Geração e leitura de **logs corporativos**
-- Stacktrace **automático e rastreável**
-- Diagnóstico de falhas em tempo real
-
----
-
-### 🔄 ETL Personalizado com Excel + Python
-
-Artefato de integração com:
-
-- **Regras de negócio configuráveis**
-- Tratamento linha a linha com **Pandas**
-- API para consumo no **Power BI**
-- Exportações auditadas
-
----
-
-<p align="center">🎮 **Player: Daniel Henrique** — _READY TO FIGHT!_ 🚀</p>
-
----
-
-## 🛡️ Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-pinheiro-309754243" target="_blank">LinkedIn</a> •
-  <a href="mailto:daniellopeshps@gmail.com">Email</a> •
-  <a href="https://github.com/DanielpinheiroH" target="_blank">GitHub</a>
-</p>
-
----
-
-<p align="center">Feito com ❤️ por Daniel Henrique — **GAME DEV PROFILE** 🚀</p>
