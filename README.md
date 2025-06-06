@@ -109,4 +109,6 @@ Trabalho com foco em:
 
 <p align="center"><i>“Não é só código. É estratégia, dados confiáveis e experiência para o usuário.”</i></p>
 
+## 🐍 Snake eating my contributions
 
+![snake gif](./dist/github-contribution-grid-snake.svg)
