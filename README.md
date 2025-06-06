@@ -21,6 +21,9 @@ Trabalho com foco em:
 - Back-end performático e validado com **FastAPI / Flask**
 - Pipelines de dados que **conectam planilhas, bancos e dashboards**
 - Soluções com **responsabilidade técnica e visão de negócio**
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-pinheiro-309754243)  
 
 ---
 
