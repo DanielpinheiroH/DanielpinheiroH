@@ -136,71 +136,56 @@ Trabalho com foco em:
 ![snake gif](./dist/github-contribution-grid-snake.svg)
 
 
-<h1 align="center">🍿 Netflix dos meus sites</h1>
-<p align="center">Um catálogo interativo dos meus projetos, inspirado na interface da Netflix. Desenvolvido por Daniel Henrique 🚀</p>
+---
+
+<h1 align="center">🎮 Daniel Henrique — Dev Game Profile</h1>
+<p align="center">"Player 1 ready to deploy..." 🚀</p>
 
 ---
 
-## 🎬 Meu Catálogo de Sites
-
-<p align="center">
-  <a href="https://panificadorasantamassa.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/panificadora.png.jpeg" alt="Panificadora Santa Massa" width="180" />
-  </a>
-  
-  <a href="https://nobreternos.com.br/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nobreternos.png.jpeg" alt="Nobre Ternos" width="180" />
-  </a>
-  
-  <a href="https://nhmanutencoes.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutencoes" width="180" />
-  </a>
-</p>
+## 🧙 Classe
+**Fullstack Developer**  
+**Nível**: 99+
 
 ---
 
-## 🚀 Tecnologias que domino
+## ⚔️ Skills Equipadas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+### 🎨 Front-End  
+🟢 React.js · Tailwind CSS · Vite · Framer Motion
 
----
+### 🖥️ Back-End  
+🟢 Python · FastAPI · Flask · SQLite · SQL Server
 
-## 🌎 Contato
+### 📊 Dados & BI  
+🟢 Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-pinheiro-309754243" target="_blank">LinkedIn</a> •
-  <a href="mailto:daniellopeshps@gmail.com">Email</a> •
-  <a href="https://github.com/DanielpinheiroH" target="_blank">GitHub</a>
-</p>
+### 🖥️ Desktop App  
+🟢 Electron · Tkinter · PyInstaller
+
+### ⚙️ DevOps  
+🟢 Git · Logging · Stacktrace · Auditoria LGPD
 
 ---
 
-## 🚀 Stack Principal
+## 🎯 Quests em Andamento
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-React.js%20·%20Tailwind%20CSS%20·%20Vite%20·%20Framer%20Motion-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Back--End-Python%20·%20FastAPI%20·%20Flask%20·%20SQLite%20·%20SQL%20Server-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dados%20&%20BI-Pandas%20·%20OpenPyXL%20·%20Excel%20·%20Power%20BI%20·%20ETL%20Caseiro-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Desktop%20App-Electron%20·%20Tkinter%20·%20PyInstaller-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Git%20·%20Logging%20·%20Stacktrace%20·%20Auditoria%20LGPD-purple?style=for-the-badge" />
-</p>
+- 🛠️ **Novos dashboards corporativos com React + APIs**
+- 🛠️ **Automação de ingestão e validação de planilhas Excel**
+- 🛠️ **Integração Power BI com pipelines automáticos**
+- 🛠️ **Soluções desktop com rastreabilidade e auditoria LGPD**
+- 🛠️ **Interfaces UX corporativa de alta performance**
 
 ---
 
-## 🧩 O que eu construo
+## 🏅 Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dashboards%20web-React%20+%20APIs-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Soluções%20Desktop-Ingestão%20·%20Validação%20Excel-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Integrações-Power%20BI%20Automático-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX%20Corporativa-Front-end%20Intuitivo-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Auditoria%20e%20Logs-Rastreabilidade-purple?style=for-the-badge" />
-</p>
+✅ Deploy de sistemas corporativos em produção  
+✅ Integrações de BI com automação de ETL  
+✅ Interfaces de dashboards com foco em UX empresarial  
+✅ Sistemas com logging e rastreabilidade em conformidade com LGPD  
+✅ Aplicações Desktop multiplataforma com PyInstaller e Electron
+
 ---
 
+<p align="center">🎮 **Player: Daniel Henrique** — _READY!_ 🚀</p>
