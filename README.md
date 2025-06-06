@@ -135,61 +135,17 @@ Trabalho com foco em:
 
 ![snake gif](./dist/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Dev Game Profile Banner" />
+</p>
 
----
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="150" alt="Daniel Henrique Avatar"/>
+</p>
 
-<h1 align="center">🎮 Daniel Henrique — Dev Game Profile</h1>
-<p align="center">"Player 1 ready to deploy..." 🚀</p>
-
----
-
-## 🧙 Classe
-**Fullstack Developer**  
-**Nível**: 99+
-
----
-
-## ⚔️ Skills Equipadas
-
-### 🎨 Front-End  
-🟢 React.js · Tailwind CSS · Vite · Framer Motion
-
-### 🖥️ Back-End  
-🟢 Python · FastAPI · Flask · SQLite · SQL Server
-
-### 📊 Dados & BI  
-🟢 Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro
-
-### 🖥️ Desktop App  
-🟢 Electron · Tkinter · PyInstaller
-
-### ⚙️ DevOps  
-🟢 Git · Logging · Stacktrace · Auditoria LGPD
-
----
-
-## 🎯 Quests em Andamento
-
-- 🛠️ **Novos dashboards corporativos com React + APIs**
-- 🛠️ **Automação de ingestão e validação de planilhas Excel**
-- 🛠️ **Integração Power BI com pipelines automáticos**
-- 🛠️ **Soluções desktop com rastreabilidade e auditoria LGPD**
-- 🛠️ **Interfaces UX corporativa de alta performance**
-
----
-
-## 🏅 Achievements
-
-✅ Deploy de sistemas corporativos em produção  
-✅ Integrações de BI com automação de ETL  
-✅ Interfaces de dashboards com foco em UX empresarial  
-✅ Sistemas com logging e rastreabilidade em conformidade com LGPD  
-✅ Aplicações Desktop multiplataforma com PyInstaller e Electron
-
----
-
-<p align="center">🎮 **Player: Daniel Henrique** — _READY!_ 🚀</p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/Q8I2XbLkpFPRiZRMqG/giphy.gif" width="300" alt="XP Bar"/>
+</p>
 
 <h1 align="center">🎮 Daniel Henrique — Dev Game Profile</h1>
 <p align="center">🕹️ Level 99 | XP: ██████████░░░ 90%</p>
