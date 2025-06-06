@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Daniel+Henrique+Fullstack+Developer;React+%2B+Python+Warrior;Excel+%2B+Power+BI+Master;Game+Dev+Profile+Ready!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Daniel+Henrique;ENGENHEIRO+DE+SOFTWARE;DEV+FULL+STACK;REACT+E+PYTHON;EXCEL+E+BI" alt="Typing SVG" />
 </p>
-
 
 <h1 align="center">🚀 Dev • Engenharia de Software, React & Integrações Corporativas</h1>
 
