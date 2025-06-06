@@ -161,22 +161,25 @@ Trabalho com foco em:
 
 ## 🚀 Stack Principal
 
-| Camada         | Tecnologias                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| Front-End      | React.js · Tailwind CSS · Vite · Framer Motion                                 |
-| Back-End       | Python · FastAPI · Flask · SQLite · SQL Server                                 |
-| Dados & BI     | Pandas · OpenPyXL · Excel · Power BI · ETL Caseiro                             |
-| Desktop App    | Electron · Tkinter · PyInstaller                                               |
-| DevOps         | Git · Logging · Stacktrace · Auditoria LGPD                                    |
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End-React.js%20·%20Tailwind%20CSS%20·%20Vite%20·%20Framer%20Motion-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back--End-Python%20·%20FastAPI%20·%20Flask%20·%20SQLite%20·%20SQL%20Server-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dados%20&%20BI-Pandas%20·%20OpenPyXL%20·%20Excel%20·%20Power%20BI%20·%20ETL%20Caseiro-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20App-Electron%20·%20Tkinter%20·%20PyInstaller-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Git%20·%20Logging%20·%20Stacktrace%20·%20Auditoria%20LGPD-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🧩 O que eu construo
 
-🔹 Dashboards e sistemas web com **React + APIs**  
-🔹 Soluções desktop para ingestão e validação de **planilhas Excel**  
-🔹 Módulos de integração que alimentam o **Power BI automaticamente**  
-🔹 **Front-ends intuitivos e performáticos** com foco em UX corporativa  
-🔹 Serviços de **auditoria, logs técnicos e rastreabilidade**
-<p align="center">Feito com ❤️ por Daniel Henrique</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboards%20web-React%20+%20APIs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Soluções%20Desktop-Ingestão%20·%20Validação%20Excel-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integrações-Power%20BI%20Automático-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20Corporativa-Front-end%20Intuitivo-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auditoria%20e%20Logs-Rastreabilidade-purple?style=for-the-badge" />
+</p>
+
+
 
