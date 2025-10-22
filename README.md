@@ -4,34 +4,29 @@
 
 <h1 align="center">🚀 Software Engineer • React, Python & Corporate Integrations</h1>
 
-<p align="center">
-  <b>I transform spreadsheets, scattered data, and manual routines into connected, intelligent systems.</b><br>
-  <i>React on the Front. Python on the Back. TypeScript for precision. Excel + Power BI at the heart of corporate data.</i>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Software Engineer** focused on developing **high-performance corporate systems** that combine technology, automation, and business intelligence.  
-I specialize in building **React + TypeScript front-ends** and **FastAPI back-ends** that integrate seamlessly with **Excel and Power BI**.
+I’m a **Full Stack Software Engineer** specialized in **React, TypeScript, and Python**.  
+I develop **modern and scalable systems** focused on automation, data integration, and business intelligence — always balancing performance, usability, and clean architecture.
 
 My main strengths include:
-- Building modern, scalable front-ends with **React.js, Tailwind, and TypeScript**
-- Designing efficient back-ends using **FastAPI** and **Flask**
-- Creating automated **data pipelines** between Excel, SQL, and BI tools
-- Delivering projects with **technical precision, scalability, and business insight**
+- Building maintainable front-ends with **React.js + TypeScript**
+- Designing reliable back-ends using **FastAPI** and **Flask**
+- Creating **data pipelines** that integrate with Excel and Power BI
+- Delivering systems with **precision, scalability, and clarity**
 
 ---
 
 ## 🧠 Core Technical Skills
 
-- **React.js & TypeScript** — clean, performant, and maintainable UI development  
-- **Python & FastAPI** — robust, secure, and scalable back-end architecture  
-- **SQL / SQLite / SQL Server** — efficient data modeling and relational design  
-- **Excel & Power BI** — business intelligence and automation workflows  
-- **Tailwind CSS / Vite / Framer Motion** — responsive and elegant interfaces  
-- **Git & DevOps** — logging, version control, and deployment pipelines  
+- **React.js & TypeScript** — modern, high-performance front-end development  
+- **Python & FastAPI** — secure and structured back-end architecture  
+- **SQL / SQLite / SQL Server** — efficient data management and modeling  
+- **Excel & Power BI** — business automation and visualization  
+- **Tailwind CSS / Vite / Framer Motion** — clean, responsive UIs  
+- **Git & DevOps** — versioning, logs, and CI/CD practices  
 
 ---
 
@@ -55,33 +50,34 @@ A full-stack solution for managing advertising insertion orders:
 - FastAPI + SQLite on the back-end  
 - Excel upload, validation, and reporting  
 - Power BI integration for real-time dashboards  
-- Permissions, logs, and audit features  
+- Permissions, logs, and auditing tools  
 
 ---
 
 ### 🔍 **PI Search System**
-A fast and efficient platform to **search and analyze insertion orders (PIs)**.
-- Multi-filter search engine with Excel import  
+A fast and intelligent platform to **search and analyze insertion orders (PIs)**:
+- Advanced search and filters with Excel data import  
 - PostgreSQL database integration  
-- Automatic data validation and structured imports  
-- Clean React interface for corporate use  
+- Structured imports and validation  
+- Clean, responsive React interface  
 
 ---
 
 ### 📊 **Special Projects Dashboard**
-A lightweight web platform built with **React + CSS** for **project tracking and performance monitoring**:
-- Visual overview of active and completed projects  
-- Executive and team progress summaries  
-- Simple and responsive design for internal corporate use  
+A lightweight web platform built with **React + CSS** for **project tracking**:
+- Monitoring of active and completed projects  
+- Visual dashboards for executives and teams  
+- Clean and responsive interface for internal use  
 
 ---
 
 ### 🚚 **Fleet Control System**
-A complete fleet management application designed for operational control:
+A complete **Fleet Management System** designed for operational control:
 - Vehicle registration, maintenance tracking, and driver management  
-- Active and historical rental records with alerts  
+- Active and historical rental records with automated alerts  
 - Integrated dashboards for cost and performance analytics  
-- Built with Python (Tkinter + SQLite) and Excel reports  
+- **Developed with Python (FastAPI) on the back-end** and **React + TypeScript on the front-end**  
+- Excel-based reporting and management modules  
 
 ---
 
@@ -89,8 +85,8 @@ A complete fleet management application designed for operational control:
 A Python-based automation tool for **sending bulk or event-triggered emails**:
 - Custom HTML templates and attachments  
 - Excel-based contact ingestion and validation  
-- Logging and delivery confirmation for each batch  
-- Built with `smtplib`, `pandas`, and `tkinter` for easy use  
+- Logging and delivery confirmation per batch  
+- Built with `smtplib`, `pandas`, and `tkinter` for a simple UI  
 
 ---
 
