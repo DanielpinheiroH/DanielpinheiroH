@@ -17,7 +17,7 @@ I’m a **Full Stack Software Engineer** focused on developing **high-performanc
 I specialize in building **React + TypeScript front-ends** and **FastAPI back-ends** that integrate seamlessly with **Excel and Power BI**.
 
 My main strengths include:
-- Building modern and scalable front-ends with **React.js, Tailwind, and TypeScript**
+- Building modern, scalable front-ends with **React.js, Tailwind, and TypeScript**
 - Designing efficient back-ends using **FastAPI** and **Flask**
 - Creating automated **data pipelines** between Excel, SQL, and BI tools
 - Delivering projects with **technical precision, scalability, and business insight**
@@ -53,27 +53,26 @@ My main strengths include:
 A full-stack solution for managing advertising insertion orders:
 - React.js + Tailwind on the front-end  
 - FastAPI + SQLite on the back-end  
-- Excel upload, validation, and report generation  
-- Power BI dashboard integration  
-- Permissions, logs, and auditing controls  
+- Excel upload, validation, and reporting  
+- Power BI integration for real-time dashboards  
+- Permissions, logs, and audit features  
 
 ---
 
 ### 🔍 **PI Search System**
-A fast and efficient system to **search and analyze insertion orders (PIs)**.
+A fast and efficient platform to **search and analyze insertion orders (PIs)**.
 - Multi-filter search engine with Excel import  
 - PostgreSQL database integration  
-- Automatic validation and structured imports  
-- CLI and web interface options for flexibility  
+- Automatic data validation and structured imports  
+- Clean React interface for corporate use  
 
 ---
 
 ### 📊 **Special Projects Dashboard**
-A sales and sponsorship management platform with real-time insights:
-- Project and quota registration with relational linking  
-- Power BI integration and performance tracking  
-- Detailed metrics by executive, client, and project type  
-- Developed using React, Tailwind, and FastAPI  
+A lightweight web platform built with **React + CSS** for **project tracking and performance monitoring**:
+- Visual overview of active and completed projects  
+- Executive and team progress summaries  
+- Simple and responsive design for internal corporate use  
 
 ---
 
@@ -81,8 +80,17 @@ A sales and sponsorship management platform with real-time insights:
 A complete fleet management application designed for operational control:
 - Vehicle registration, maintenance tracking, and driver management  
 - Active and historical rental records with alerts  
-- Integrated dashboards for cost and performance analysis  
-- Built with Python (Tkinter + SQLite) and integrated reports  
+- Integrated dashboards for cost and performance analytics  
+- Built with Python (Tkinter + SQLite) and Excel reports  
+
+---
+
+### ✉️ **Email Trigger System**
+A Python-based automation tool for **sending bulk or event-triggered emails**:
+- Custom HTML templates and attachments  
+- Excel-based contact ingestion and validation  
+- Logging and delivery confirmation for each batch  
+- Built with `smtplib`, `pandas`, and `tkinter` for easy use  
 
 ---
 
@@ -99,10 +107,6 @@ A complete fleet management application designed for operational control:
     <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutenções" width="180" />
   </a>
 </p>
-
----
-
-<p align="center"><i>“It’s not just code — it’s strategy, reliable data, and user experience.”</i></p>
 
 ---
 
