@@ -1,126 +1,108 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Daniel+Henrique;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;REACT+%2B+PYTHON;DATA+AUTOMATION+%26+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Daniel+Henrique;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;REACT+AND+PYTHON;TYPESCRIPT+AND+BI" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Software Engineer • React & Python Integrations</h1>
+<h1 align="center">🚀 Software Engineer • React, Python & Corporate Integrations</h1>
 
 <p align="center">
-  <b>I transform spreadsheets, scattered data, and manual routines into modern, connected, and intelligent systems.</b><br>
-  <i>React on the Frontend. Python on the Backend. Excel + Power BI at the core of corporate data.</i>
-</p>
-
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-technical-stack">Stack</a> •
-  <a href="#-what-i-build">What I Build</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-website-showcase">Showcase</a> •
-  <a href="#-contact">Contact</a>
+  <b>I transform spreadsheets, scattered data, and manual routines into connected, intelligent systems.</b><br>
+  <i>React on the Front. Python on the Back. TypeScript for precision. Excel + Power BI at the heart of corporate data.</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **software engineer** focused on **full stack development** using **React (frontend)** and **Python (backend)** — specialized in building **corporate systems** that integrate data from **Excel and Power BI**.
+I’m a **Full Stack Software Engineer** focused on developing **high-performance corporate systems** that combine technology, automation, and business intelligence.  
+I specialize in building **React + TypeScript front-ends** and **FastAPI back-ends** that integrate seamlessly with **Excel and Power BI**.
 
-I build solutions that combine:
-- Modern interfaces with **React.js + Tailwind CSS**
-- High-performance backends using **FastAPI / Flask**
-- Data pipelines that **connect spreadsheets, databases, and dashboards**
-- Systems designed with **technical responsibility and business insight**
-
----
-
-## 🚀 Technical Stack
-
-| Layer | Technologies |
-|-------|---------------|
-| **Frontend** | React.js · Tailwind CSS · Vite · Framer Motion |
-| **Backend** | Python · FastAPI · Flask · SQLite · SQL Server |
-| **Data & BI** | Pandas · OpenPyXL · Excel · Power BI · Custom ETL |
-| **Desktop Apps** | Electron · Tkinter · PyInstaller |
-| **DevOps** | Git · Logging · Stacktrace · LGPD Compliance |
+My main strengths include:
+- Building modern and scalable front-ends with **React.js, Tailwind, and TypeScript**
+- Designing efficient back-ends using **FastAPI** and **Flask**
+- Creating automated **data pipelines** between Excel, SQL, and BI tools
+- Delivering projects with **technical precision, scalability, and business insight**
 
 ---
 
-## 🧩 What I Build
+## 🧠 Core Technical Skills
 
-- **Web dashboards and management systems** with React + APIs  
-- **Desktop tools** for Excel ingestion, validation, and automation  
-- **Data integration modules** that feed Power BI in real time  
-- **User-friendly, fast, and reliable interfaces** for corporate workflows  
-- **Audit and logging systems** for technical traceability  
+- **React.js & TypeScript** — clean, performant, and maintainable UI development  
+- **Python & FastAPI** — robust, secure, and scalable back-end architecture  
+- **SQL / SQLite / SQL Server** — efficient data modeling and relational design  
+- **Excel & Power BI** — business intelligence and automation workflows  
+- **Tailwind CSS / Vite / Framer Motion** — responsive and elegant interfaces  
+- **Git & DevOps** — logging, version control, and deployment pipelines  
+
+---
+
+## ⚙️ Main Stack
+
+| Layer         | Technologies                                                   |
+|----------------|---------------------------------------------------------------|
+| **Front-End**  | React.js · TypeScript · Tailwind CSS · Vite · Framer Motion   |
+| **Back-End**   | Python · FastAPI · Flask · SQLite · SQL Server                |
+| **Data & BI**  | Pandas · OpenPyXL · Excel · Power BI · Custom ETL pipelines   |
+| **Desktop App**| Electron · Tkinter · PyInstaller                              |
+| **DevOps**     | Git · Logging · Stack Trace · LGPD Audit & Compliance         |
 
 ---
 
 ## 💼 Featured Projects
 
-### 💻 Ad Insertion Management System (PI)
-A full stack platform built with:
-- React.js + Tailwind frontend  
-- FastAPI + SQLite backend  
-- Excel file validation & upload  
-- Power BI integration for analytics  
-- Logging, user permissions, and audit features  
+### 💻 **Insertion Order Management System (PI)**
+A full-stack solution for managing advertising insertion orders:
+- React.js + Tailwind on the front-end  
+- FastAPI + SQLite on the back-end  
+- Excel upload, validation, and report generation  
+- Power BI dashboard integration  
+- Permissions, logs, and auditing controls  
 
 ---
 
-### ⚙️ Log & Stacktrace Technical Module
-A tool for developers and support teams:
-- Automatic corporate log generation and reading  
-- Real-time stacktrace tracking  
-- Advanced diagnostics and fault tracing  
+### 🔍 **PI Search System**
+A fast and efficient system to **search and analyze insertion orders (PIs)**.
+- Multi-filter search engine with Excel import  
+- PostgreSQL database integration  
+- Automatic validation and structured imports  
+- CLI and web interface options for flexibility  
 
 ---
 
-### 🚚 Fleet Management System
-An end-to-end platform for vehicle and driver control:
-- Python + FastAPI backend with SQLite  
-- CustomTkinter desktop dashboard  
-- Real-time rental and delivery monitoring  
-- Alerts for due returns and maintenance schedules  
-- PDF invoice generation and backup automation  
+### 📊 **Special Projects Dashboard**
+A sales and sponsorship management platform with real-time insights:
+- Project and quota registration with relational linking  
+- Power BI integration and performance tracking  
+- Detailed metrics by executive, client, and project type  
+- Developed using React, Tailwind, and FastAPI  
 
 ---
 
-### 🔄 Custom ETL with Excel + Python
-Data ingestion and transformation engine:
-- Rule-based data processing  
-- Row-by-row validation with Pandas  
-- API endpoints for Power BI consumption  
-- Audited exports and traceable operations  
+### 🚚 **Fleet Control System**
+A complete fleet management application designed for operational control:
+- Vehicle registration, maintenance tracking, and driver management  
+- Active and historical rental records with alerts  
+- Integrated dashboards for cost and performance analysis  
+- Built with Python (Tkinter + SQLite) and integrated reports  
 
 ---
 
-<h1 align="center">🍿 My Website Showcase</h1>
-<p align="center">An interactive “Netflix”-style gallery of my deployed websites.</p>
-
----
-
-## 🎬 Website Showcase
+## 🌐 Website Showcase
 
 <p align="center">
-  <a href="https://panificadorasantamassa.com/" target="_blank">
+  <a href="https://panificadorasantamassa.com/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/panificadora.png.jpeg" alt="Panificadora Santa Massa" width="180" />
   </a>
-  <a href="https://nobreternos.com.br/" target="_blank">
+  <a href="https://nobreternos.com.br/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nobreternos.png.jpeg" alt="Nobre Ternos" width="180" />
   </a>
-  <a href="https://nhmanutencoes.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutencoes" width="180" />
+  <a href="https://nhmanutencoes.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutenções" width="180" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“It’s not just code. It’s strategy, reliable data, and great user experience.”</i></p>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-![snake gif](./dist/github-contribution-grid-snake.svg)
+<p align="center"><i>“It’s not just code — it’s strategy, reliable data, and user experience.”</i></p>
 
 ---
 
