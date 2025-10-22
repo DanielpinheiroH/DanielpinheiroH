@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 I’m a **Full Stack Software Engineer** specialized in **React, TypeScript, and Python**.  
-I develop **modern and scalable systems** focused on automation, data integration, and business intelligence — always balancing performance, usability, and clean architecture.
+I develop **modern and scalable systems** focused on automation, integration, and business intelligence — always balancing performance, usability, and clean architecture.
 
 My main strengths include:
 - Building maintainable front-ends with **React.js + TypeScript**
@@ -67,7 +67,7 @@ A fast and intelligent platform to **search and analyze insertion orders (PIs)**
 A lightweight web platform built with **React + CSS** for **project tracking**:
 - Monitoring of active and completed projects  
 - Visual dashboards for executives and teams  
-- Clean and responsive interface for internal use  
+- Simple and responsive design for internal use  
 
 ---
 
@@ -103,6 +103,19 @@ A Python-based automation tool for **sending bulk or event-triggered emails**:
     <img src="https://raw.githubusercontent.com/DanielpinheiroH/github-assetss/main/nhmanutencoes.png.jpeg" alt="NH Manutenções" width="180" />
   </a>
 </p>
+
+---
+
+## 🧩 NXC Agency
+
+🚀 Check out my digital development agency:  
+👉 [**NXC One**](https://nxc-one.vercel.app/) — Custom software, web systems, and automation solutions.
+
+---
+
+## 🐍 GitHub Activity Snake
+
+![snake gif](./dist/github-contribution-grid-snake.svg)
 
 ---
 
